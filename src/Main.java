@@ -659,8 +659,6 @@ public class Main {
         System.out.println(Arrays.toString(sequence));
         System.out.println("10)");
 
-        git config --global user.name "laurynaslaz007"
-        git config --global user.email "laurynaslazauskas777@gmail.com"
 
 
     }
